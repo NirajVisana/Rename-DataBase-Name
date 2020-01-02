@@ -37,4 +37,4 @@ I have not done any much condition check on this. Feel free to submit pull reque
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the Licence file for details
